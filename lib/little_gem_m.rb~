@@ -1,5 +1,5 @@
-require "little_gem_m/version"
-require "little_gem_m/hola"
+require "my_gem/version"
+require "my_gem/hola"
 module LittleGemM
  def self.hi(n = "Default Name")
  hola = Hola
