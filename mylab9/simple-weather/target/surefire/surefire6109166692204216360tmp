@@ -1,0 +1,5 @@
+#surefire
+#Mon Oct 26 12:28:12 PDT 2015
+user.dir=/home/matthew/Dropbox/comp_350/Lab9/mylab9/simple-weather
+localRepository=/home/matthew/.m2/repository
+basedir=/home/matthew/Dropbox/comp_350/Lab9/mylab9/simple-weather
